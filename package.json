@@ -1,0 +1,27 @@
+{
+  "name": "velora-commerce-os",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Velora — the commerce operating system for modern retail brands. A complete SaaS demo: marketing site, auth, and a full multi-module dashboard.",
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/build.mjs --serve",
+    "build": "node scripts/build.mjs",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "d3-scale": "^4.0.2",
+    "d3-shape": "^3.2.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-icons": "^5.5.0"
+  },
+  "devDependencies": {
+    "@types/d3-scale": "^4.0.8",
+    "@types/d3-shape": "^3.1.6",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "esbuild": "^0.25.0",
+    "typescript": "^5.6.0"
+  }
+}
