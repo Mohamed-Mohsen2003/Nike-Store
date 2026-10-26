@@ -2,7 +2,7 @@
 
 **Velora** is a complete SaaS product demo: a marketing website, authentication flow, and a fully interactive multi‑module dashboard that unifies orders, inventory, customers, analytics and billing for a fast‑growing sneaker brand (*Stride Athletics*).
 
-🔗 **Live demo:** https://mohamed-mohsen2003.github.io/nike-store/
+🔗 **Live demo:** https://mohamed-mohsen2003.github.io/Nike-Store/ *(served from the `gh-pages` branch)*
 
 > Everything is interactive and runs entirely in the browser. Changes you make (new products, fulfilled orders, invites, invoices…) are saved to `localStorage`. Use **Reset demo data** from the user menu to start over.
 
